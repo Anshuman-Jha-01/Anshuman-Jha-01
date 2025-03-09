@@ -3,7 +3,7 @@
 Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
 
 # 💫 About Me:
-I'm looking to collaborate on:<br>Open-source projects that aim to make the web more accessible and inclusive.<br>Cross-functional teams to build innovative web applications and improve user experience.<br>Projects involving emerging technologies such as AI, machine learning, and blockchain.<br><br>I'm looking for help with: Web accessibility standards and best practices to make websites more inclusive.<br><br>I'm currently learning: Web technologoies like Docker and AWS<br><br>Ask me about: Front-end and back-end development techniques and tools.<br><br>Fun fact: Did you know that the first website ever created is still online? Tim Berners-Lee, the inventor of the World Wide Web, published it on August 6, 1991. You can visit it here: https://info.cern.ch/hypertext/WWW/TheProject.html?form=MG0AV3
+I'm looking to collaborate on:<br>Open-source projects that aim to make the web more accessible and inclusive.<br>Cross-functional teams to build innovative web applications and improve user experience.<br>Projects involving emerging technologies such as AI, machine learning, and blockchain.<br><br>I'm looking for help with: Web accessibility standards and best practices to make websites more inclusive.<br><br>I'm currently learning: Java and DSA<br><br>Ask me about: Front-end and back-end development techniques and tools.<br><br>Fun fact: Did you know that the first website ever created is still online? Tim Berners-Lee, the inventor of the World Wide Web, published it on August 6, 1991. You can visit it here: https://info.cern.ch/hypertext/WWW/TheProject.html?form=MG0AV3
 
 
 ## 🌐 Socials:
