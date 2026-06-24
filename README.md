@@ -48,14 +48,12 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://linkedin.com/in/anshumanjha01"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="3.5%"/> </a> &nbsp;
-<a href="https://facebook.com/anshuman.jha.2025"> <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="3.5%"/> </a> &nbsp; 
-<a href="https://instagram.com/anshumanjha.2025"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="3.5%"/> </a> &nbsp; 
-<a href="mailto:mailto:anshumanjha4181@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Mail" width="3.5%"/> </a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/anshumanjha01"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" width="48"></a>
+  <a href="https://facebook.com/anshuman.jha.2025"><img align="center" src="https://img.icons8.com/fluency/48/facebook-new.png" width="48"></a>
+  <a href="https://instagram.com/anshumanjha.2025"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"></a>
+  <a href="mailto:anshumanjha4181@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/gmail.png" width="48"></a>
+</p>
 
 ---
 
