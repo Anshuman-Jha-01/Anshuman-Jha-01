@@ -1,81 +1,202 @@
-![logo](https://github.com/Anshuman-Jha-01/Anshuman-Jha-01/blob/main/Brown%20Simple%20Adventure%20GitHub%20Banner.png)
+<div align="center">
 
-Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anshuman%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
-# 💫 About Me:
-<img width="300" height="300" alt="giphy" align="right" src="https://github.com/user-attachments/assets/022f3570-1b0f-45f1-8527-36ab2072bd1d" /> <br/>
-I'm looking to collaborate on:<br>Open-source projects that aim to make the web more accessible and inclusive.<br>Cross-functional teams to build innovative web applications and improve user experience.<br>Projects involving emerging technologies such as AI, machine learning, and blockchain.<br><br>I'm looking for help with: Web accessibility standards and best practices to make websites more inclusive.<br><br>I'm currently learning: Docker and Kubernetes<br><br>Ask me about: Front-end and back-end development techniques and tools.<br><br>Fun fact: Did you know that the first website ever created is still online? Tim Berners-Lee, the inventor of the World Wide Web, published it on August 6, 1991. You can visit it <a href="https://info.cern.ch/hypertext/WWW/TheProject.html?form=MG0AV3" target="_blank">here</a>.
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/anshumanjha01)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://facebook.com/anshuman.jha.2025)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/anshumanjha.2025)  &nbsp; <a href="mailto:mailto:anshumanjha4181@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+</div>
 
-# 👨‍💻 Tech Stack:
+---
 
-## 💻 Languages
+<!-- About Me Section -->
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="55%">
+
+## 💫 About Me
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="18"/> &nbsp;**I write code, break things, and learn from it — so you don't have to!**
+
+<br/>
+
+🤝 &nbsp;**Collaborating on** open-source projects that make the web accessible & inclusive, cross-functional teams building innovative apps, and projects involving **AI**, **ML**, and **Blockchain**
+
+🆘 &nbsp;**Looking for help with** web accessibility standards & best practices
+
+📚 &nbsp;**Currently learning** `Linux` and `Shell Scripting`
+
+💬 &nbsp;**Ask me about** front-end & back-end development techniques and tools
+
+⚡ &nbsp;**Fun fact:** Did you know the [first ever website](https://info.cern.ch/hypertext/WWW/TheProject.html) created by Tim Berners-Lee on **August 6, 1991** is still live today? 🌐
+
+</td>
+<td valign="top" width="45%">
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/022f3570-1b0f-45f1-8527-36ab2072bd1d" width="320" align="right" style="border-radius: 16px;" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/anshumanjha01"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="3.5%"/> </a> &nbsp;
+<a href="https://facebook.com/anshuman.jha.2025"> <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="3.5%"/> </a> &nbsp; 
+<a href="https://instagram.com/anshumanjha.2025"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="3.5%"/> </a> &nbsp; 
+<a href="mailto:mailto:anshumanjha4181@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Mail" width="3.5%"/> </a>
+
+</div>
+
+---
+
+## 👨‍💻 Tech Stack
+
+<div align="center">
+
+### 💻 Languages
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,md,bash,powershell" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,md,bash,powershell&theme=dark" />
 </p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind,wordpress" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind,wordpress&theme=dark" />
 </p>
 
-> **Also Experienced With:** ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
+<details>
+<summary><b>🔧 Also Experienced With (Frontend)</b></summary>
+<br/>
 
-## ⚙️ Backend
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+</details>
+
+### ⚙️ Backend
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm&theme=dark" />
 </p>
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
-> **Also Experienced With:** ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+<details>
+<summary><b>🔧 Also Experienced With (Databases)</b></summary>
+<br/>
 
-## ☁️ Cloud & Deployment
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</details>
+
+### ☁️ Cloud & Deployment
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
 </p>
 
-> **Also Experienced With:** ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+<details>
+<summary><b>🔧 Also Experienced With (Cloud)</b></summary>
+<br/>
 
-## 🚀 DevOps & Containerization
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+</details>
+
+### 🚀 DevOps & Containerization
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Anshuman-Jha-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github)<br/><br/>
-![](https://streak-stats.demolab.com/?user=Anshuman-Jha-01&theme=tokyonight&hide_border=false)<br/><br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anshuman-Jha-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
-![](https://github-profile-trophy-fork-two.vercel.app/?username=Anshuman-Jha-01&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true)
+</div>
 
-# ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-# 🚗 Profile Visits:
-![](https://komarev.com/ghpvc/?username=Anshuman-Jha-01&label=Profile%20Visits&color=blue&style=for-the-badge)  
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Anshuman-Jha-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github&show_icons=true&border_radius=10" height="180" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anshuman-Jha-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&border_radius=10" height="180" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Anshuman-Jha-01&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Anshuman-Jha-01&theme=tokyonight&no-frame=true&row=1&margin-w=20&no-bg=true" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-Jha-01&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false&border_color=1a1b27&area_color=70a5fd" width="95%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Visits
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anshuman-Jha-01&label=Profile%20Visits&color=58A6FF&style=for-the-badge)
+
+<br/>
+
+*"The best error message is the one that never shows up."* — Thomas Fuchs
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
