@@ -7,9 +7,9 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
 I'm looking to collaborate on:<br>Open-source projects that aim to make the web more accessible and inclusive.<br>Cross-functional teams to build innovative web applications and improve user experience.<br>Projects involving emerging technologies such as AI, machine learning, and blockchain.<br><br>I'm looking for help with: Web accessibility standards and best practices to make websites more inclusive.<br><br>I'm currently learning: Docker and Kubernetes<br><br>Ask me about: Front-end and back-end development techniques and tools.<br><br>Fun fact: Did you know that the first website ever created is still online? Tim Berners-Lee, the inventor of the World Wide Web, published it on August 6, 1991. You can visit it <a href="https://info.cern.ch/hypertext/WWW/TheProject.html?form=MG0AV3" target="_blank">here</a>.
 
 ## 🌐 Socials:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/https://linkedin.com/in/anshumanjha01)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://facebook.com/https://facebook.com/anshuman.jha.2025)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/https://instagram.com/anshumanjha.2025)  &nbsp; <a href="mailto:mailto:anshumanjha4181@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/anshumanjha01)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://facebook.com/anshuman.jha.2025)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/anshumanjha.2025)  &nbsp; <a href="mailto:mailto:anshumanjha4181@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-# 💻 Tech Stack:
+# 👨‍💻 Tech Stack:
 
 ## 💻 Languages
 
@@ -71,10 +71,10 @@ I'm looking to collaborate on:<br>Open-source projects that aim to make the web 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anshuman-Jha-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
 ![](https://github-profile-trophy-fork-two.vercel.app/?username=Anshuman-Jha-01&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
-# ✍️ Random Dev Quote
+# ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-# Profile Visits
+# 🚗 Profile Visits:
 ![](https://komarev.com/ghpvc/?username=Anshuman-Jha-01&label=Profile%20Visits&color=blue&style=for-the-badge)  
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
